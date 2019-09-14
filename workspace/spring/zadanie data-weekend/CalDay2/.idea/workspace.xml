@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48429915-a77d-487c-a9c7-fb775a9a2024" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/artifacts/javalub13_jsp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/artifacts/javalub13_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/Z1Z2Z3Z4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/javalub13-jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/HelloWorldServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/common/repository/DomainEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/common/repository/HibernateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/common/repository/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/filter/HttpFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/print/ColorFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/print/PrintServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/print/TextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/print/TimesFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/todo/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/todo/repository/TaskRepositiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/todo/servlet/DoneServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/todo/servlet/ListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/todo/servlet/NewTaskServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/user/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/user/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/user/servlet/MainServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/user/servlet/UserCreateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/user/servlet/UserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/java/pl/sda/servlets/user/servlet/UserLoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/hello.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/tables/multiplication.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/user/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/Z1Z2Z3Z4/src/main/webapp/world/hellojsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/artifacts/javalub13_jsp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/artifacts/javalub13_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz1/javalub13-jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/artifacts/javalub13_jsp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/artifacts/javalub13_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/javalub13-jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/src/main/java/pl/sda/servlets/todo/servlet/DoneServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz2/src/main/webapp/world/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/artifacts/javalub13_jsp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/artifacts/javalub13_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/javalub13-jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/java/pl/sda/servlets/filter/SecurityFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/java/pl/sda/servlets/todo/servlet/CalendarServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/java/pl/sda/servlets/users/servlet/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/java/pl/sda/servlets/users/servlet/MainServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/java/pl/sda/servlets/users/servlet/UserLiginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/webapp/todo/calendar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/webapp/user/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz3/src/main/webapp/user/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/artifacts/javalub13_jsp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/artifacts/javalub13_jsp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_12_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/servletycz4/javalub13-jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/zadania/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/zadania/src/main/java/com/borychowska/servlety/WitajSwiecieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../servlety/zadania/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVALUB13spring_zadania/zadanie_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay/src/main/java/pl/cedro/ApplicationConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay/src/main/java/pl/cedro/CalendarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay/src/main/java/pl/cedro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay/src/main/java/pl/cedro/WeekendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay/zadCalDay-XML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/src/main/java/pl/cedro/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/src/main/java/pl/cedro/CalendarService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/src/main/java/pl/cedro/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/src/main/java/pl/cedro/WeekendService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadCalDay1/zadCalDay1-adnotacje.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\workspace\spring\zadanie data-weekend\CalDay2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PFSjVB04ZnsrLzUF7qGYvbx2xY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVALUB13spring_zadania" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="zadCalDay2-JAVAconfig" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="zadCalDay2-JAVAconfig" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48429915-a77d-487c-a9c7-fb775a9a2024" name="Default Changelist" comment="" />
+      <created>1565468486161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565468486161</updated>
+      <workItem from="1565468490173" duration="383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
